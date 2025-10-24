@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "vite",
+    "dev": "npx vite",
     "build": "npx vite build",
-    "preview": "vite preview",
+    "preview": "npx vite preview",
     "test": "vitest"
   },
   "dependencies": {
