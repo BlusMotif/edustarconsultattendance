@@ -16,5 +16,5 @@ services:
         name: Referrer-Policy
         value: strict-origin-when-cross-origin
     rewrites:
-      - source: /**/*
+      - source: /**
         destination: /index.html
